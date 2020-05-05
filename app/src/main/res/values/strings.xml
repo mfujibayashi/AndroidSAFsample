@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAFSample</string>
+    <string name="image_open_button">Image Open</string>
+    <string name="music_open_button">Music Open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
